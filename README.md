@@ -1,4 +1,4 @@
-# city_infos
+# Wanderlust
 *************
 
 Hi :)
